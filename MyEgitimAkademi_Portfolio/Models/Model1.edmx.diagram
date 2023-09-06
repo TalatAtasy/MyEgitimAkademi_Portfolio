@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="72e9f9b93871419da483ded4185a1117" Name="Diagram1" ZoomLevel="100">
+        <EntityTypeShape EntityType="MyPortfolioDbModel.About" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="MyPortfolioDbModel.Service" Width="1.5" PointX="2.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="MyPortfolioDbModel.Testimonial" Width="1.5" PointX="0.75" PointY="3.75" />
+        <EntityTypeShape EntityType="MyPortfolioDbModel.Category" Width="1.5" PointX="3.375" PointY="3.75" />
+        <EntityTypeShape EntityType="MyPortfolioDbModel.Project" Width="1.5" PointX="5.375" PointY="0.75" />
+        <EntityTypeShape EntityType="MyPortfolioDbModel.sysdiagrams" Width="1.5" PointX="5.375" PointY="3.75" />
+        <AssociationConnector Association="MyPortfolioDbModel.FK_Project_Category" />
+        <EntityTypeShape EntityType="MyPortfolioDbModel.Skill" Width="1.5" PointX="0.75" PointY="6.75" />
+        <EntityTypeShape EntityType="MyPortfolioDbModel.Address" Width="1.5" PointX="3.375" PointY="6.75" />
+        <EntityTypeShape EntityType="MyPortfolioDbModel.Contact" Width="1.5" PointX="5.375" PointY="6.75" />
+        <EntityTypeShape EntityType="MyPortfolioDbModel.Admin" Width="1.5" PointX="7.375" PointY="3.75" />
+        <EntityTypeShape EntityType="MyPortfolioDbModel.AwardInfo" Width="1.5" PointX="7.75" PointY="0.75" />
+        <EntityTypeShape EntityType="MyPortfolioDbModel.Awards" Width="1.5" PointX="7.75" PointY="6.75" />
+        <EntityTypeShape EntityType="MyPortfolioDbModel.ClientInfo" Width="1.5" PointX="9.75" PointY="0.75" />
+        <EntityTypeShape EntityType="MyPortfolioDbModel.Clients" Width="1.5" PointX="0.75" PointY="9.75" />
+        <EntityTypeShape EntityType="MyPortfolioDbModel.ClientStats" Width="1.5" PointX="2.75" PointY="9.75" />
+        <EntityTypeShape EntityType="MyPortfolioDbModel.Feature" Width="1.5" PointX="9.75" PointY="3.75" />
+        <EntityTypeShape EntityType="MyPortfolioDbModel.QuickContact" Width="1.5" PointX="4.75" PointY="9.75" />
+        <EntityTypeShape EntityType="MyPortfolioDbModel.TestimonialInfo" Width="1.5" PointX="6.75" PointY="9.75" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

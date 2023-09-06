@@ -1,0 +1,28 @@
+﻿@model List<MyEgitimAkademi_Portfolio.Models.Testimonial>
+<div id="owl-demo1" class="owl-carousel owl-theme mt-4 py-2 mb-4">
+    @foreach (var item in Model)
+    {
+        <div class="item">
+            <div class="testimonial-content">
+                <div class="testimonial">
+                    <blockquote>
+                        <q>
+                            @item.Comment
+                        </q>
+                    </blockquote>
+                    <div class="testi-des">
+                        <div class="test-img">
+                            <img src="@item.ImageUrl" class="img-fluid"
+                                 alt="client-img">
+                        </div>
+                        <div class="peopl align-self">
+                            <h3>@item.NameSurname</h3>
+                            <p class="indentity">Seattle, Washington</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+
+    </div>
