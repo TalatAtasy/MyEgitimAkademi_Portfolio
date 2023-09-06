@@ -52,7 +52,7 @@ namespace MyEgitimAkademi_Portfolio.Controllers
         [HttpGet]
         public ActionResult UpdateTestimonial(int id)
         {
-            var value = db.TestimonialInfo.Find(id);
+            var value = db.Testimonial.Find(id);
             return View(value);
         }
         [HttpPost]
