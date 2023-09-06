@@ -6,7 +6,7 @@ ASP.NET Core MVC 5 tabanlı kişisel bir web uygulaması, yöneticilerin tüm i�
 * Entity FrameWork
 * Sql Server
   
-  ![image](https://github.com/Aydinmfatih/Academy_Portfolio/assets/46519508/8ce5b775-9730-4983-8bbc-9c2ddc85a058)
+  ![image]([https://github.com/Aydinmfatih/Academy_Portfolio/assets/46519508/8ce5b775-9730-4983-8bbc-9c2ddc85a058](https://cdn.discordapp.com/attachments/1130909018827804712/1149013462211625061/image.png))
   ![image](https://github.com/Aydinmfatih/Academy_Portfolio/assets/46519508/57467c97-2915-4e7d-a05b-2b9c64116925)
   ![image](https://github.com/Aydinmfatih/Academy_Portfolio/assets/46519508/cd42280d-3e4d-4838-93f6-0f62f8d32aa4)
   ![image](https://github.com/Aydinmfatih/Academy_Portfolio/assets/46519508/40ab6479-225d-499c-8717-164077f013b7)
