@@ -10,7 +10,7 @@ ASP.NET Core MVC 5 tabanlı kişisel bir web uygulaması, yöneticilerin tüm i�
   # Instalation
   Öncelikle projeyi klonlayın
 
-  git clone https://github.com/Aydinmfatih/Academy_Portfolio.git
+  git clone https://github.com/TalatAtasy/Academy_Portfolio.git
   Mssql deki connection stringinizi değiştirerek projeyi ayağa kaldırabilirsiniz.
 
   # Using
